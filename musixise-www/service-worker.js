@@ -11,10 +11,10 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.2.0/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fa74a77c9826cf0accbb1edac9028d83.js"
+  "//s.musixise.com/musixise-www/precache-manifest.bc1d8c04b86af2e6bec30d7fb70befc9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "llk-musixise"});
