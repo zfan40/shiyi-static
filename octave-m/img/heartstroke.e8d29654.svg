@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="23px" viewBox="0 0 28 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="main2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="音乐广场" transform="translate(-307.000000, -517.000000)" stroke="#8C8C92" stroke-width="1.2">
+            <g id="模块/八音盒信息" transform="translate(20.000000, 116.000000)">
+                <g id="说明" transform="translate(0.000000, 378.843404)">
+                    <g id="点赞" transform="translate(288.000000, 23.000000)">
+                        <path d="M4.20123766,15.4528664 C0.033491212,11.0488989 -1.09608533,6.07158576 1.09390781,2.78813756 C3.26546119,-0.467664008 9.85671467,-1.98526535 13,4.57625788 C16.1432853,-1.98526535 22.7345388,-0.467664008 24.9060922,2.78813756 C27.0960853,6.07158576 25.9665088,11.0488989 21.7987623,15.4528664 C19.9158395,17.4425102 16.9300368,19.2915547 13,21 C9.06996324,19.2915547 6.08416048,17.4425102 4.20123766,15.4528664 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
